@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Code for: Remote sensing reveals inter- and intraspecific
+  variation in riparian cottonwood (Populus spp) response to
+  drought
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Seeley
+    family-names: Megan M.
+    email: mseeley1@asu.edu
+    affiliation: Arizona State University
+    orcid: 'https://orcid.org/0000-0003-1945-1162'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/MegsSeeley/drought_cottonwood/tree/main
